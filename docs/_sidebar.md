@@ -1,4 +1,3 @@
 - [Installation](/)
-- [Usage](statements.md)
-- [Extending DSL](extending.md)
-- [Tooling](tooling.md)
+- [Usage](usage.md)
+- [Examples](examples.md)
